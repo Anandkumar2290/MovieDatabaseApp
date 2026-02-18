@@ -1,10 +1,10 @@
 {
-  "homepage": "https://[your-username].github.io/MovieDatabaseApp",
+  "homepage": "https://Anandkumar2290.github.io/MovieDatabaseApp",
   "name": "app-name",
   "private": true,
   "version": "1.0.0",
   "engines": {
-    "node": "^10.13 || 12 || 14 || 15",
+    "node": ">=10.13",
     "npm": ">=6"
   },
   "dependencies": {
